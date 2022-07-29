@@ -1,6 +1,7 @@
 # MyEdicationOnGeekBrains
 
 **Second row in README file**
+
 # Инструкция для работы с Markdown
 
 ## Выделение текста
